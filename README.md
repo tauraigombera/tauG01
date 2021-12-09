@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey friends!
+
+- 🔭 I’m Taurai Gombera
+- 🌱 I blog here https://taugdesign.com/blog
+- 👯 I design here https://www.behance.net/tauraigombera
+- 🤔 I’m on twitter https://twitter.com/taugdesign
+- 📫 How to reach me: https://taugdesign.com
+- 😄 Pronouns: He/Him/His
 
 <!--
 **tauG01/tauG01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m Taurai Gombera
+- 🌱 I blog here https://taugdesign.com/blog
+- 👯 I design here 
+- 🤔 I’m on twitter https://twitter.com/taugdesign
+- 💬 Ask me about ASP.NET 
+- 📫 How to reach me: https://taugdesign.com
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: ...
 -->
